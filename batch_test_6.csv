@@ -1,0 +1,4 @@
+userId,event,equipment,length,workout_category,workout_name,timestamp
+segmentapitest1@yopmail.com,Workout Completed Confirmed,pball|pband|p3trainer,30,The Foundation,2022-04-10T14:43:55Z,
+segmentapitest2@yopmail.com,Workout Completed Confirmed,pball|pband|p3trainer,60,,2022-04-09T14:43:55Z,
+segmentapitest3@yopmail.com,Workout Completed Confirmed,no equipment,,The Foundation,2022-04-08T14:43:55Z,
